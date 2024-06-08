@@ -1,0 +1,18 @@
+ body {
+      position: relative;
+      position: relative; 
+      background-image:url('white.jpg');
+      background-size:cover;
+    	  
+  }
+ 
+  a{
+    
+      text-decoration:none;
+  }
+  h3{
+      text-align:center;
+  }
+  h2{
+      text-align:center;
+  }
